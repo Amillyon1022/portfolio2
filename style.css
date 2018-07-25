@@ -1,0 +1,147 @@
+.headshot{
+display:block;
+margin-left: auto;
+margin-right: auto;
+width:100px;
+
+}
+a{
+color:white;
+font-size: 50px;
+
+}
+
+.drawing{
+
+  display:block;
+  margin-left: auto;
+  margin-right: auto;
+  width:100px;
+  width:300px;
+  border-radius:20%;
+}
+
+p{
+font-family: 'Merienda', cursive;
+}
+
+.skateboard{
+  display:block;
+  margin-left: auto;
+  margin-right: auto;
+  width:300px;
+  border-radius:20%;
+}
+
+
+
+.row{
+
+    background-color:teal;
+    color:white;
+    font-size:20px;
+}
+
+.mid{
+    background-color:white;
+    color:black;
+    align-items:center;
+    font-size:50px;
+    margin-top:5px;
+    margin-bottom:5px;
+
+}
+.aboutme{
+    border:1px solid black;
+}
+
+p{
+  justify-content: center;
+  display:flex;
+    }
+
+img{
+   width:530px;
+    }
+
+.headshot{
+    width:200px;
+    border-radius:50%;
+
+}
+
+.middle2{
+
+
+}
+
+.rowFooter{
+   display:flex;
+   justify-content:space-around;
+   background-color:teal;
+    color:white;
+    font-size:20px;
+        font-size:25px;
+    margin-top:5px;
+    margin-bottom:5px;
+    font-family: 'Merienda', cursive;
+    text-decoration:none;
+}
+
+.top{
+ display:flex;
+   justify-content:space-around;
+   background-color:teal;
+    color:white;
+    font-size:20px;
+        font-size:25px;
+    margin-top:5px;
+    margin-bottom:5px;
+    font-family: 'Merienda', cursive;
+}
+
+.middle{
+    background-color:white;
+    color:black;
+    align-items:center;
+    font-size:30px;
+    margin-top:5px;
+    margin-bottom:5px;
+    font-family: 'Merienda', cursive;
+}
+
+h1{
+    justify-content:center;
+    display:flex;
+    align-items:center;
+    font-family: 'Merienda', cursive;
+}
+
+h2{
+    justify-content:center;
+    display:flex;
+    align-items:center;
+    font-family: 'Merienda', cursive;
+}
+
+.middle2{
+     background-color:white;
+    color:black;
+    align-items:center;
+    font-size:25px;
+    margin-top:5px;
+    margin-bottom:5px;
+    font-family: 'Merienda', cursive;
+
+}
+
+.button{
+width:115px;
+height: 75px;
+border:transparent;
+background-color:transparent;
+font-family: 'Merienda', cursive;
+font-size:30px;
+cursor:pointer;
+
+}
